@@ -1,0 +1,19 @@
+//**************************
+// TO DO
+//**************************
+  
+
+# User management
+	# password ****'s
+	# reset password function
+	# set password
+	# "You have no password set" msg, set one now?
+
+# My Account
+	# Leave Plans
+	
+#Task Lists	
+	# releaseTasks.php
+	
+#Staff Allocation
+	# myDeliverables.php
